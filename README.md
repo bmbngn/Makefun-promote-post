@@ -3,7 +3,7 @@
 One post on X promoting make.fun's make-your-own-bounty post: a photo made by my AI agent, text carrying make.fun and @makefunai, and my play code. The post quotes/links make.fun's post at https://x.com/makefunai/status/2124915864336236646.
 
 [![Bounty](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
-[![Rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/bmbngn/makefun-promote-post/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
+[![Rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/bmbngn/Makefun-promote-post/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
 [![Reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
 
 - Bounty: https://make.fun/bounty/post-x-promote-make-your-own-bounty-01
